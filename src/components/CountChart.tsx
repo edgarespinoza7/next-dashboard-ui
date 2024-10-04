@@ -36,7 +36,7 @@ const CountChart = () => {
         <Image src="/moreDark.png" alt="" width={20} height={20} />
       </div>
       {/* Chart */}
-      <div className="w-full h-[75%]">
+      <div className="relative w-full h-[75%]">
         <ResponsiveContainer>
           <RadialBarChart
             cx="50%"
@@ -53,6 +53,7 @@ const CountChart = () => {
             />
           </RadialBarChart>
         </ResponsiveContainer>
+        <Image src="/maleFemale.png" alt="" width={50} height={50} className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2"/>
       </div>
       {/* Bottom */}
       <div className="flex justify-center gap-16">
