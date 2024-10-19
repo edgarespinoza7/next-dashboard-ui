@@ -15,7 +15,7 @@ const Announcements = () => {
               2025-01-01
             </span>
           </div>
-          <p className="text-sm text-gray-400">
+          <p className="text-sm text-gray-400 mt-4">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio
             molestias vel ducimus quisquam rem cumque facere neque
           </p>
@@ -27,7 +27,7 @@ const Announcements = () => {
               2025-01-01
             </span>
           </div>
-          <p className="text-sm text-gray-400">
+          <p className="text-sm text-gray-400 mt-4">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio
             molestias vel ducimus quisquam rem cumque facere neque
           </p>
@@ -39,7 +39,7 @@ const Announcements = () => {
               2025-01-01
             </span>
           </div>
-          <p className="text-sm text-gray-400">
+          <p className="text-sm text-gray-400 mt-4">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio
             molestias vel ducimus quisquam rem cumque facere neque
           </p>
