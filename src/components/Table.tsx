@@ -1,5 +1,3 @@
-import { teachersData } from "@/lib/data";
-
 const Table = ({
   columns,
   renderRow,
